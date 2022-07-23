@@ -75,10 +75,9 @@ HOW TO RUN:
 
 - Follow the instructions above to build the miner
 - Change the conf.json file to your own (enter tweetcoin address and change threads)
-- Run tweetcoin-qt or tweetcoind. This can be done in tweetcoin/src folder and by
-running the "./tweetcoin-qt" or "./tweetcoind -daemon" command in terminal
+- Run tweetcoin-qt. This can be done in tweetcoin/src/qt folder and by
+running the "./tweetcoin-qt" command in terminal
 
-./tweetcoin-qt
 - Open terminal and enter the following:
 
 cd Tweetcoin-CPUminer

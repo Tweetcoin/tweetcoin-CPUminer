@@ -1,0 +1,13 @@
+{
+	"_Let's" : "Any long-format command line argument ",
+	"_go" : "may be used in this JSON configuration file",
+
+	"url" : "stratum+tcp://199.192.24.71:12222/",
+        "coinbase-addr" : "YOUR_ADDRESS_HERE",
+	"user" : "YOUR_ADDRESS HERE",
+	"pass" : "YOUR_PASSWORD_FROM_TWEETCOIN.CONF",
+	"algo" : "scrypt",
+	"threads" : "NUMBERS_OF_CPU_THREADS"
+}
+
+
